@@ -344,63 +344,164 @@ AI 기반 건설현장 안전관리 플랫폼 WatchOut을 개발한 팀입니다
 
 #### 📘 대시보드
 
-|                          대시보드                           |
-| :---------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-대시보드.gif" width="640"/> |
+<table width="100%">
+  <tr>
+    <th align="center">대시보드</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-대시보드.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### 🛠️ 현장 관리
 
-|                           CCTV 확인                           |                          CCTV 등록                          |
-| :-----------------------------------------------------------: | :---------------------------------------------------------: |
-| <img src="docs/assets/image/웹/웹-cctv확인.png" width="320"/> | <img src="docs/assets/gif/웹/웹-cctv등록.gif" width="320"/> |
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">CCTV 확인</th>
+    <th width="50%" align="center">CCTV 등록</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/image/웹/웹-cctv확인.png" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-cctv등록.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">CCTV 수정</th>
+    <th width="50%" align="center">CCTV 삭제</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-cctv수정.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-cctv삭제.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">구역 확인</th>
+    <th width="50%" align="center">구역 등록</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-구역확인.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-구역등록.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">구역 별칭 수정</th>
+    <th width="50%" align="center">구역 담당자 수정</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-구역별칭수정.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-구역담당자수정.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-|                          CCTV 수정                          |                          CCTV 삭제                          |
-| :---------------------------------------------------------: | :---------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-cctv수정.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-cctv삭제.gif" width="320"/> |
-
-|                          구역 확인                          |                          구역 등록                          |
-| :---------------------------------------------------------: | :---------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-구역확인.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-구역등록.gif" width="320"/> |
-
-|                         구역 별칭 수정                          |                         구역 담당자 수정                          |
-| :-------------------------------------------------------------: | :---------------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-구역별칭수정.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-구역담당자수정.gif" width="320"/> |
-
-|                          구역 삭제                          |
-| :---------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-구역삭제.gif" width="320"/> |
+<table width="50%">
+  <tr>
+    <th align="center">구역 삭제</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-구역삭제.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### 👷 작업자 관리
 
-|                          작업자 확인                          |
-| :-----------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-작업자확인.gif" width="640"/> |
+<table width="100%">
+  <tr>
+    <th align="center">작업자 확인</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-작업자확인.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### ⌚️ 워치 관리
 
-|                          워치 등록                          |                          워치 수정                          |
-| :---------------------------------------------------------: | :---------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-워치등록.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-워치수정.gif" width="320"/> |
-
-|                          워치 삭제                          |                        워치 대여 및 반납                        |
-| :---------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-워치삭제.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-워치대여반납.gif" width="320"/> |
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">워치 등록</th>
+    <th width="50%" align="center">워치 수정</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-워치등록.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-워치수정.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">워치 삭제</th>
+    <th width="50%" align="center">워치 대여 및 반납</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-워치삭제.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-워치대여반납.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### 🚨 안전 알림
 
-|                      작업자 입출입 알림                       |                         안전장비 미착용 알림                          |
-| :-----------------------------------------------------------: | :-------------------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-입출입알림.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-안전장비미착용알림.gif" width="320"/> |
-
-|                       중장비 접근 알림                        |                       SOS 긴급 알림                        |
-| :-----------------------------------------------------------: | :--------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-중장비알림.gif" width="320"/> | <img src="docs/assets/gif/웹/웹-sos알림.gif" width="320"/> |
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">작업자 입출입 알림</th>
+    <th width="50%" align="center">안전장비 미착용 알림</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-입출입알림.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-안전장비미착용알림.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">중장비 접근 알림</th>
+    <th width="50%" align="center">SOS 긴급 알림</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-중장비알림.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-sos알림.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### 📋 공지
 
-|                          공지 발송                          |
-| :---------------------------------------------------------: |
-| <img src="docs/assets/gif/웹/웹-공지발송.gif" width="640"/> |
+<table width="100%">
+  <tr>
+    <th align="center">공지 발송</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/gif/웹/웹-공지발송.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
