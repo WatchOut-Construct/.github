@@ -406,9 +406,6 @@ AI 기반 건설현장 안전관리 플랫폼 WatchOut을 개발한 팀입니다
       <img src="docs/assets/gif/웹/웹-구역담당자수정.gif" width="100%" />
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
     <th width="50%"><div align="center">구역 삭제</div></th>
     <th width="50%"></th>
